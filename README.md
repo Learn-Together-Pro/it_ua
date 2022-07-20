@@ -4,21 +4,21 @@ Awesome collection of Ukrainian IT communitites
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
 List of categories:
-- [General about IT]()
-- [Backend]()
-- [Frontend]()
-- [DevOps]()
-- [Data Science, AI, ML]()
-- [Hardware && Embedded]()
-- [Mobile]()
-- [Databases]()
-- [Design]()
-- [Open Source]()
-- [QA/QC]()
-- [GameDev]()
-- [Cyber Security]()
-- [Product marketing && management]()
-- [Vacancies]()
+- [General about IT](#general-about-it)
+- [Backend](#backend)
+- [Frontend](#frontend)
+- [DevOps](#devops)
+- [Data Science, AI, ML](#data-science,-ai,-ml)
+- [Hardware && Embedded](#hardware-&&-embedded)
+- [Mobile](#mobile)
+- [Databases](#databases)
+- [Design](#design)
+- [Open Source](#open-source)
+- [QA/QC](#qa/qc)
+- [GameDev](#gamedev)
+- [Cyber Security](#cyber-security)
+- [Product marketing && management](#product-marketing-&&-management)
+- [Vacancies](#vacancies)
 
 
 
