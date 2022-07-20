@@ -17,7 +17,7 @@ List of categories:
 - [QA/QC](#qaqc)
 - [GameDev](#gamedev)
 - [Cyber Security](#cyber-security)
-- [Product marketing && management](#product-marketing--management)
+- [Product marketing && management](#product--management)
 - [Vacancies](#vacancies)
 
 
