@@ -295,7 +295,7 @@ List of categories:
  - ( _cyber_ ) -- about cyber security
  - ( _product_ ) -- about product deveopment
  - ( _management_ ) -- about management
- - ( _vacancy_ ) -- about vaccancies <br/>
+ - ( _vacancy_ ) -- about vaccancies <br />
  - ( _telegram-chat ) -- on telegram chat
  - ( _telegram-channel ) -- on telegram channel
  - ( _website_ ) -- on website
