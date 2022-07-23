@@ -276,13 +276,15 @@ List of categories:
  - [Catalog 🇺🇦](https://t.me/UkrainianCatalog)
  - [Український геймдев в Телеграмі](https://docs.google.com/spreadsheets/d/1R-1mg7S8Rxv5uUgYoxiYOIpaJeVDsW6KP65xd69WKHc/edit#gid=0)
  - [dou: добірка Telegram-каналів українських IT-фахівців](https://dou.ua/lenta/articles/telegram-channels-new-list/)
- - [dou:обзор Telegram-каналов украинских IT-специалистов](https://dou.ua/lenta/digests/telegram-channels-list/)
-
 
 
 ## Tags legend
 
- - ( _general-IT_ ) -- about IT in general 
+ - ( _general-IT_) -- about IT in general
+ - ( _backend_ ) -- about backend development 
+ 
+
+ - ( _general-IT_ ) -- about IT in general
  - ( _backend_ ) -- about backend development
  - ( _frontend_ ) -- about frontend development
  - ( _blockchain_ ) -- about blockchain
