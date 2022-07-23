@@ -296,8 +296,6 @@ List of categories:
  - ( _product_ ) -- about product deveopment
  - ( _management_ ) -- about management
  - ( _vacancy_ ) -- about vaccancies 
- 
- 
  - ( _telegram-chat_ ) -- on telegram chat
  - ( _telegram-channel_ ) -- on telegram channel
  - ( _website_ ) -- on website
