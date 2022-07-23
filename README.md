@@ -20,8 +20,6 @@ List of categories:
  - [Product && management](#product--management)
  - [Vacancies](#vacancies)
 
-
-
 ## General about IT
 
 ( _general-IT_ ) ( _telegram-channel_ )
@@ -218,7 +216,6 @@ List of categories:
  - [🇺🇦 3D Character](https://t.me/character_ua_3d) ( _telegram-chat_ )
  - [Про Blender 3D українською](https://t.me/blender_ua) ( _telegram-chat_ )
  - [varto.school сhat](https://t.me/varto_school_chat) ( _telegram-chat_ )
-
  - [Game Designer Notes](https://t.me/GameDesigner_Notes) ( _design_ ) ( _telegram-channel_ )
  - [Конспект геймдизайнера](https://t.me/gamedesignercompendium) ( _design_ ) ( _telegram-channel_ )
  - [Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) ( _design_ ) ( _telegram-channel_ )
@@ -280,10 +277,6 @@ List of categories:
 
 ## Tags legend
 
- - ( _general-IT_) -- about IT in general
- - ( _backend_ ) -- about backend development 
- 
-
  - ( _general-IT_ ) -- about IT in general
  - ( _backend_ ) -- about backend development
  - ( _frontend_ ) -- about frontend development
@@ -303,7 +296,6 @@ List of categories:
  - ( _product_ ) -- about product deveopment
  - ( _management_ ) -- about management
  - ( _vacancy_ ) -- about vaccancies
-
  - ( _telegram-chat ) -- on telegram chat
  - ( _telegram-channel ) -- on telegram channel
  - ( _website_ ) -- on website
@@ -316,5 +308,3 @@ List of categories:
  - ( _twitter_ ) -- on twitter
  - ( _reddit_ ) -- on reddit
  - ( _linkedin_ ) -- on linkedin
-
-
