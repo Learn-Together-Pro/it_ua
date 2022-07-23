@@ -215,7 +215,7 @@ List of categories:
  - [ZBRUSH UAIENG](http://t.me/ZbrushUAIENG) ( _telegram-chat_ )
  - [🇺🇦 3D Character](https://t.me/character_ua_3d) ( _telegram-chat_ )
  - [Про Blender 3D українською](https://t.me/blender_ua) ( _telegram-chat_ )
- - [varto.school сhat](https://t.me/varto_school_chat) ( _telegram-chat_ )
+ - [varto.school сhat](https://t.me/varto_school_chat) ( _telegram-chat_ ) <br/>
  - [Game Designer Notes](https://t.me/GameDesigner_Notes) ( _design_ ) ( _telegram-channel_ )
  - [Конспект геймдизайнера](https://t.me/gamedesignercompendium) ( _design_ ) ( _telegram-channel_ )
  - [Про Дизайн Рівнів від Андрія](https://t.me/ualeveldesign) ( _design_ ) ( _telegram-channel_ )
@@ -295,7 +295,7 @@ List of categories:
  - ( _cyber_ ) -- about cyber security
  - ( _product_ ) -- about product deveopment
  - ( _management_ ) -- about management
- - ( _vacancy_ ) -- about vaccancies
+ - ( _vacancy_ ) -- about vaccancies <br/>
  - ( _telegram-chat ) -- on telegram chat
  - ( _telegram-channel ) -- on telegram channel
  - ( _website_ ) -- on website
