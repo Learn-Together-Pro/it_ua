@@ -201,7 +201,7 @@ List of categories:
 ( _gamedev_ )
 
 - [Game Development UA](https://t.me/gamedevua) ( _telegram-chat_ )
-- [Обговорення Ігротворення](https://t.me/talk_about_game_dev) ( _telegram-chat_ )
+- [Обговорення Ігротворення](https://t.me/talk_about_game_dev) ( _telegram-chat_ ) 
 - [Ihor Kopiov Games&Business](https://t.me/GameDesignAndMoney) ( _telegram-channel_ )
 - [Чат українських геймдизайнерів](https://t.me/gamedesignUA_chat) ( _telegram-chat_ )
 - [Hyper Casual Ukraine](https://t.me/HyperCasualUkraine) ( _telegram-chat_ )
@@ -274,7 +274,7 @@ List of categories:
 
 ## Tags legend
 
-- ( _general-IT_ ) -- about IT in general
+- ( _general-IT_ ) -- about IT in general 
 - ( _backend_ ) -- about backend development
 - ( _frontend_ ) -- about frontend development
 - ( _blockchain_ ) -- about blockchain
