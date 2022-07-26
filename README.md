@@ -3,6 +3,8 @@ Awesome collection of Ukrainian IT communitites
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
+If there is a missing your community, feel free to make PR to add it to our awesome list.
+
 List of categories:
  - [General about IT](#general-about-it)
  - [Backend](#backend)
