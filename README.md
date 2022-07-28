@@ -1,5 +1,5 @@
 # it_ua
-Awesome collection of Ukrainian IT communitites
+Awesome collection of Ukrainian IT communities.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
