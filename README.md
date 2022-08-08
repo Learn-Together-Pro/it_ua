@@ -3,7 +3,7 @@ Awesome collection of Ukrainian IT communities.
 
 [:arrow_down: Tags legend](#tags-legend) at the end of the page.
 
-If there is a missing your community, feel free to make PR to add it to our awesome list.
+If there is a missing your community, feel free [to make PR to add it](./instruction.md) to our awesome list.
 
 List of categories:
  - [General about IT](#general-about-it)
