@@ -9,6 +9,7 @@ List of categories:
  - [General about IT](#general-about-it)
  - [Backend](#backend)
  - [Frontend](#frontend)
+ - [Operating system](#operating-system)
  - [DevOps](#devops)
  - [Data Science, AI, ML](#data-science-ai-ml)
  - [Hardware && Embedded](#hardware--embedded)
@@ -112,6 +113,12 @@ List of categories:
  - [IT KPI Dart](https://t.me/dart_itkpi) ( _telegram-chat_ )
  - [Мы вам перезвоним](https://t.me/callforward) ( _telegram-channel_ )
 
+## Operating system
+
+( _operatings-system_ )
+
+- [LINUX UA](https://t.me/linuzua) ( _telegram-channel_ )
+
 ## DevOps
 
 ( _devops_ )
@@ -142,7 +149,7 @@ List of categories:
 ## Hardware && Embedded
 
 ( _hardware_ ) ( _embedded_ )
-
+ - [Electronics UA](https://t.me/electronicsua) ( _telegram-channel_ )
  - [Embedded Lab](https://t.me/embedded_lab) ( _telegram-chat_ )
  - [ІТ КПІ - Embedded](https://t.me/itkpi_embedded) ( _telegram-chat_ )
  - [IT KPI Assembler & Reverse Engineering](https://t.me/itkpi_reveng) ( _telegram-chat_ )
@@ -199,7 +206,7 @@ List of categories:
 ## GameDev
 
 ( _gamedev_ )
-
+ - [Графоній](https://t.me/grafonua) ( _telegram-chat_ )
  - [Game Development UA](https://t.me/gamedevua) ( _telegram-chat_ )
  - [Обговорення Ігротворення](https://t.me/talk_about_game_dev) ( _telegram-chat_ ) 
  - [Ihor Kopiov Games&Business](https://t.me/GameDesignAndMoney) ( _telegram-channel_ )
@@ -284,7 +291,8 @@ List of categories:
  - ( _frontend_ ) -- about frontend development
  - ( _blockchain_ ) -- about blockchain
  - ( _devops_ ) -- about development & operations
- - ( _data science_ ) -- about data science
+ - ( _operatings-system_ ) -- about operating systems 
+ - ( _data-science_ ) -- about data science
  - ( _hardware_ ) -- about hardware development
  - ( _embedded_ ) -- about embedded systems
  - ( _mobile_ ) -- about mobile development
