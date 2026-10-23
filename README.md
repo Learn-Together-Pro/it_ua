@@ -138,6 +138,7 @@ List of categories:
  - [Kyiv Data Science](https://t.me/kyivdatascience)
  - [BigQuery Insights](https://t.me/BigQuery) ( _telegram-channel_ )
  - [devdigest // azure](https://t.me/azure_digest) ( _telegram-channel_ )
+ - [Вайб-Кодинг](https://t.me/vibecoding_ua) ( _AI_ ) ( _telegram-chat_ )
 
 ## Hardware && Embedded
 
